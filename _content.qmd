@@ -145,15 +145,18 @@ We developed and delivered a [Workshop](https://github.com/stata-translations/St
   - Results are non deterministic.
   - The plugin provides some structure, but human intervention is still required to keep Claude on track.
 
+## Outputs:
+
+  "Code Translation using Large Language Models: What's the role of the Research Software Engineer?" Presented at RSECon26, September 2026 [https://doi.org/10.5281/zenodo.22124100](https://doi.org/10.5281/zenodo.22124100)
+
+  "Using Large Language Models and Coding Agents to Translate Stata Packages: Benefits and Risks." Presented at Stata Conference UK, September 2026 [https://doi.org/10.5281/zenodo.22124100](https://doi.org/10.5281/zenodo.22124100)
+
+
 ## With Thanks to:
 
   James Carpenter, Tra My Pham, Asif Tamuri, David Perez-Suarez, David Fisher, Matteo Quartagno, Carlos Diaz Montana, Ian White, Toby Thompson
 
   **Links:**
-
-  "Code Translation using Large Language Models: What's the role of the Research Software Engineer?" Presented at RSECon26, September 2026 [https://doi.org/10.5281/zenodo.22124100](https://doi.org/10.5281/zenodo.22124100)
-
-  "Using Large Language Models and Coding Agents to Translate Stata Packages: Benefits and Risks." Presented at Stata Conference UK, September 2026 [https://doi.org/10.5281/zenodo.22124100](https://doi.org/10.5281/zenodo.22124100)
 
   Workshop Results: [https://doi.org/10.5281/zenodo.22093626](https://doi.org/10.5281/zenodo.22093626)
 
