@@ -1,7 +1,7 @@
 # Presentation Slides for Demo to UCL ISD, September 16th 2026
 
 
-Slides for a presentation to UCL ISD conference 
+Slides for a presentation to UCL ISD conference  (10 minutes - online) 14:05 to 14:15
 
 You can build locally with `quarto render` or use the publish [action](.github/workflows/publish.yml).
 
