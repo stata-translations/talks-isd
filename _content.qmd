@@ -127,18 +127,6 @@ We developed and delivered a [Workshop](https://github.com/stata-translations/St
 <iframe width="100%" height="100%" src="https://stata-translations.github.io/workshop-results/pre-stata-vs-r_fluency.html" title="X-Y plot of Stata vs R Fluency. No one was fluent in both."></iframe>
 ```
 
-## Post-Workshop: Skills assessment (Target language quality).
-
-```{=html}
-<iframe width="100%" height="100%" src="https://stata-translations.github.io/workshop-results/post_model_target_language.html" title="The percieved quality of the translation, grouped my model variant."></iframe>
-```
-
-## Post-Workshop: Skills assessment Example (Time Taken).
-
-```{=html}
-<iframe width="100%" height="100%" src="https://stata-translations.github.io/workshop-results/post_model_time.html" title="The time taken to perform translation by model variant."></iframe>
-```
-
 ## Post-Workshop: Concerns Work Cloud
 
 
@@ -146,25 +134,11 @@ We developed and delivered a [Workshop](https://github.com/stata-translations/St
 <iframe width="100%" height="100%" src="https://stata-translations.github.io/workshop-results/post_concerns_wordcloud.html" title="A word cloud of answers to the post workshop question 'What concerns (if any) do you have with using large language models for code translation? Notabale answers include 'Fear of hidden errors' and 'Testing and output control'"></iframe>
 ```
 
-## Post-Workshop: Ideas for Improvements / Future Work.
-
-```{=html}
-<iframe width="100%" height="100%" src="https://stata-translations.github.io/workshop-results/post_improvements.html" title="A word cloud of answers to the question "What improvements would you suggest? Most respondonts wanted to see more work on 'verifying correctness'"></iframe>
-```
-
 ## Post-Workshop: Feedback on Workshop
 
 ```{=html}
 <iframe width="100%" height="100%" src="https://stata-translations.github.io/workshop-results/post_workshop_useful.html" title="Responses to questions on the usefulness of the workshop. Most respondents found the workshop useful and are likely to use the resources for code translation."></iframe>
 ```
-
-## Further Considerations
-
-  - Ongoing development (do you plan on maintaining both versions?)
-  - Are you complying with the original license?
-  - Who owns the copyright?
-  - Preventing access to sensitive data.
-
 ## Summary
 
   - Claude can translate code.
@@ -173,15 +147,17 @@ We developed and delivered a [Workshop](https://github.com/stata-translations/St
 
 ## With Thanks to:
 
-  James Carpenter, Tra My Pham, Asif Tamuri, David Fisher, Matteo Quartagno, Carlos Diaz Montana, Ian White, Toby Thompson
+  James Carpenter, Tra My Pham, Asif Tamuri, David Perez-Suarez, David Fisher, Matteo Quartagno, Carlos Diaz Montana, Ian White, Toby Thompson
 
   **Links:**
 
-  Slides: [https://doi.org/10.5281/zenodo.22124100](https://doi.org/10.5281/zenodo.22124100)
+  "Code Translation using Large Language Models: What's the role of the Research Software Engineer?" Presented at RSECon26, September 2026 [https://doi.org/10.5281/zenodo.22124100](https://doi.org/10.5281/zenodo.22124100)
+
+  "Using Large Language Models and Coding Agents to Translate Stata Packages: Benefits and Risks." Presented at Stata Conference UK, September 2026 [https://doi.org/10.5281/zenodo.22124100](https://doi.org/10.5281/zenodo.22124100)
 
   Workshop Results: [https://doi.org/10.5281/zenodo.22093626](https://doi.org/10.5281/zenodo.22093626)
 
   Stata2R Plugin: [https://github.com/stata-translations/Stata2R](https://github.com/stata-translations/Stata2R)
 
-![](images/qr-code.png){fig-alt="Link to https://stata-translations.github.io/talks-stata-conference/" height="240"}
+![](images/qr-code.png){fig-alt="Link to https://stata-translations.github.io/talks-isd/" height="240"}
 
