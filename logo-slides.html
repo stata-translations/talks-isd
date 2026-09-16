@@ -143,15 +143,6 @@
         <p class="institute" style="color: #999;">UCL Centre for Advanced Research Computing and UCL Innovative Clinical Trials Unit</p>
         <p class="date">2026-09-16</p>
   </section>
-<section id="todays-talk" class="slide level2">
-<h2>Today’s Talk</h2>
-<ul>
-<li class="fragment">Brief Introduction (UCL ICTU, UCL ARC)</li>
-<li class="fragment">Code Translation Motivation</li>
-<li class="fragment">Code Translation Mechanics</li>
-<li class="fragment">Workshop Results</li>
-</ul>
-</section>
 <section id="innovative-clinical-trials-unit-and-arc" class="slide level2">
 <h2>Innovative Clinical Trials Unit and ARC</h2>
 <p><img data-src="images/clinical_trials_unit.png" alt="A screenshot of the Innovative Clinical Trials Unit website" height="220"> <img data-src="images/plus.png" alt="A plus sign" height="220"> <img data-src="images/arc.png" alt="A screenshot of the Advanced Research Computing website, stating that ARC is UCL's research, innovation and service centre for the tools, practices and systems that enable computational science and digital scholarship." height="220"></p>
@@ -234,40 +225,6 @@
 </code></pre></li>
 <li class="fragment"><pre><code>/stata-translation:add-missing-tests
 </code></pre></li>
-</ul>
-</section>
-<section id="plugin-skill-1-translation-strategy" class="slide level2">
-<h2>Plugin Skill 1: Translation Strategy</h2>
-<ul>
-<li class="fragment">Summarise the purpose of the library.</li>
-<li class="fragment">Is it worth translating? (existing R libraries, users etc)</li>
-<li class="fragment">Is the documentation and testing sufficient to enable a good translation.</li>
-</ul>
-</section>
-<section id="plugin-skill-2-stata-to-pseudocode" class="slide level2">
-<h2>Plugin Skill 2: Stata to Pseudocode</h2>
-<ul>
-<li class="fragment">Evidence that two stage translation creates better code.</li>
-<li class="fragment">Enables a human review step.</li>
-<li class="fragment">Use any documentation files (.sthlp) to inform the translation.</li>
-<li class="fragment">Ignore all files in the testing directory.</li>
-</ul>
-</section>
-<section id="plugin-skill-3-pseudocode-to-r" class="slide level2">
-<h2>Plugin Skill 3: Pseudocode to R</h2>
-<ul>
-<li class="fragment">Use the pseudocode to create an R package.</li>
-<li class="fragment">Create automated tests.</li>
-<li class="fragment">Port Stata documentation and examples to R (create vignettes)</li>
-<li class="fragment">Port any dialogues (graphical user interfaces) to R.</li>
-<li class="fragment">Copy over licence file and create README, CONTRIBUTING, files etc.</li>
-</ul>
-</section>
-<section id="plugin-skill-4-add-missing-stata-tests-to-r" class="slide level2">
-<h2>Plugin Skill 4: Add Missing Stata Tests to R</h2>
-<ul>
-<li class="fragment">Port the Stata tests to R and confirm they pass.</li>
-<li class="fragment">Document Stata to R test correspondence and verify results.</li>
 </ul>
 </section>
 <section id="developed-a-training-program." class="slide level2">
