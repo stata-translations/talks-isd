@@ -1,10 +1,3 @@
-## Today's Talk
-
- - Brief Introduction (UCL ICTU, UCL ARC)
- - Code Translation Motivation
- - Code Translation Mechanics
- - Workshop Results
-
 ## Innovative Clinical Trials Unit and ARC
 
 ![](images/clinical_trials_unit.png){fig-alt="A screenshot of the Innovative Clinical Trials Unit website" height="220"} 
@@ -82,33 +75,6 @@
     /stata-translation:add-missing-tests
 
     ```
-
-
-## Plugin Skill 1: Translation Strategy
- 
- - Summarise the purpose of the library.
- - Is it worth translating? (existing R libraries, users etc)
- - Is the documentation and testing sufficient to enable a good translation.
- 
-## Plugin Skill 2: Stata to Pseudocode
- 
- - Evidence that two stage translation creates better code.
- - Enables a human review step.
- - Use any documentation files (.sthlp) to inform the translation.
- - Ignore all files in the testing directory.
- 
-## Plugin Skill 3: Pseudocode to R
- 
- - Use the pseudocode to create an R package.
- - Create automated tests.
- - Port Stata documentation and examples to R (create vignettes)
- - Port any dialogues (graphical user interfaces) to R.
- - Copy over licence file and create README, CONTRIBUTING, files etc.
-
-## Plugin Skill 4: Add Missing Stata Tests to R
- 
- - Port the Stata tests to R and confirm they pass.
- - Document Stata to R test correspondence and verify results.
 
 ## Developed a training program.
 
